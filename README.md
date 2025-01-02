@@ -1,2 +1,2 @@
-# Sentiment-Analysis
-Social Network Sentiment Analysis for Natural Disaster Response
+# Social Network Sentiment Analysis for Natural Disaster Response
+
