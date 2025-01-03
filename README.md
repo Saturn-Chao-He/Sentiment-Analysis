@@ -1,6 +1,6 @@
 # Social Network Sentiment Analysis for Natural Disaster Response
 
-## This is the code of our [[paper]([https://github.com/Dong-UTIL/Natural-Hazards-Twitter-Dataset](https://www.asce.org/))].
+## This is the code of our [[paper](https://www.asce.org/)].
 ## 1. Prepare environment
 
 Create Python environment and install the required packages using Conda:
