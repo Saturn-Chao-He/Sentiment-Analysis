@@ -21,4 +21,4 @@ Great thanks to [[Dataset](https://github.com/Dong-UTIL/Natural-Hazards-Twitter-
 
 ## Cite
 If this project is useful in your research, please cite:
-> Chao He and Da Hu. Social Network Sentiment Analysis for Natural Disaster Response.
+> C. He and D. "Hu. Social Network Sentiment Analysis for Natural Disaster Response", in ASCE.
